@@ -1,7 +1,8 @@
 
 # Favorite Movies
 
-**My top 3 favorite movies**
+## My top 3 favorite movies
+
 1. Paper Town
 2. I Am Legend
 3. Lord of the rings: Film Series
@@ -11,3 +12,7 @@
 **I am Legend is about Robert Neville , a brilliant scientist, is a survivor of a man-made plague that transforms humans into bloodthirsty mutants.**
 
 **The Lord of the Rings is a series of three epic fantasy adventure films directed by Peter Jackson, based on the novel The Lord of the Rings by J. R. R. Tolkien. The films are subtitled The Fellowship of the Ring, The Two Towers, and The Return of the King.**
+
+[Paper Towns](https://www.youtube.com/watch?v=rFGiHm5WMLk&t=93s)
+[I Am Legends](https://www.youtube.com/watch?v=1GQFpbvog7s)
+[Lord of the rings](https://www.youtube.com/watch?v=V75dMMIW2B4)
