@@ -4,7 +4,7 @@
 **My top 3 favorite movies**
 1. Paper Town
 2. I Am Legend
-3. Lord of the rings: Trilogy
+3. Lord of the rings: Film Series
 
 **Paper Town is about Young and shy Quentin is in for the night of his life when Margo, the most popular student in high school, recruits him to help her play mischievous pranks on the friends who betrayed her.**
 
